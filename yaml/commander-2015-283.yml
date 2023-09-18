@@ -1,0 +1,107 @@
+---
+object: card
+id: e7ee2fa1-5aed-4612-bfa9-cfbf5d282c9b
+oracle_id: a75445d3-1303-4bb5-89ad-26ea93fecd48
+multiverse_ids:
+- 405218
+tcgplayer_id: 108118
+cardmarket_id: 286043
+name: Evolving Wilds
+lang: en
+released_at: '2015-11-13'
+uri: https://api.scryfall.com/cards/e7ee2fa1-5aed-4612-bfa9-cfbf5d282c9b
+scryfall_uri: https://scryfall.com/card/c15/283/evolving-wilds?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/7/e7ee2fa1-5aed-4612-bfa9-cfbf5d282c9b.jpg?1562710934
+  normal: https://cards.scryfall.io/normal/front/e/7/e7ee2fa1-5aed-4612-bfa9-cfbf5d282c9b.jpg?1562710934
+  large: https://cards.scryfall.io/large/front/e/7/e7ee2fa1-5aed-4612-bfa9-cfbf5d282c9b.jpg?1562710934
+  png: https://cards.scryfall.io/png/front/e/7/e7ee2fa1-5aed-4612-bfa9-cfbf5d282c9b.png?1562710934
+  art_crop: https://cards.scryfall.io/art_crop/front/e/7/e7ee2fa1-5aed-4612-bfa9-cfbf5d282c9b.jpg?1562710934
+  border_crop: https://cards.scryfall.io/border_crop/front/e/7/e7ee2fa1-5aed-4612-bfa9-cfbf5d282c9b.jpg?1562710934
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: "{T}, Sacrifice Evolving Wilds: Search your library for a basic land
+  card, put it onto the battlefield tapped, then shuffle."
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set: c15
+set_name: Commander 2015
+set_type: commander
+set_uri: https://api.scryfall.com/sets/ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e7ee2fa1-5aed-4612-bfa9-cfbf5d282c9b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa75445d3-1303-4bb5-89ad-26ea93fecd48&unique=prints
+collector_number: '283'
+digital: false
+rarity: common
+flavor_text: Without the interfering hands of civilization, nature will always shape
+  itself to its own needs.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: b7995cf1-e994-48e2-b797-bc56a5b925a1
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 14
+penny_rank: 39
+prices:
+  usd: '0.09'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405218
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Evolving+Wilds&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Evolving+Wilds&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Evolving+Wilds
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/108118?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Evolving+Wilds&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Evolving+Wilds&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

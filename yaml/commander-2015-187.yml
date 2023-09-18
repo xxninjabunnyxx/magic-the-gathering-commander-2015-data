@@ -1,0 +1,125 @@
+---
+object: card
+id: b4cf67ac-63b8-4cd5-843f-0dd1724dcc46
+oracle_id: d7407920-7596-497a-a135-b9343909a0cb
+multiverse_ids:
+- 405279
+tcgplayer_id: 107976
+cardmarket_id: 285950
+name: Kessig Cagebreakers
+lang: en
+released_at: '2015-11-13'
+uri: https://api.scryfall.com/cards/b4cf67ac-63b8-4cd5-843f-0dd1724dcc46
+scryfall_uri: https://scryfall.com/card/c15/187/kessig-cagebreakers?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/4/b4cf67ac-63b8-4cd5-843f-0dd1724dcc46.jpg?1562708654
+  normal: https://cards.scryfall.io/normal/front/b/4/b4cf67ac-63b8-4cd5-843f-0dd1724dcc46.jpg?1562708654
+  large: https://cards.scryfall.io/large/front/b/4/b4cf67ac-63b8-4cd5-843f-0dd1724dcc46.jpg?1562708654
+  png: https://cards.scryfall.io/png/front/b/4/b4cf67ac-63b8-4cd5-843f-0dd1724dcc46.png?1562708654
+  art_crop: https://cards.scryfall.io/art_crop/front/b/4/b4cf67ac-63b8-4cd5-843f-0dd1724dcc46.jpg?1562708654
+  border_crop: https://cards.scryfall.io/border_crop/front/b/4/b4cf67ac-63b8-4cd5-843f-0dd1724dcc46.jpg?1562708654
+mana_cost: "{4}{G}"
+cmc: 5.0
+type_line: Creature — Human Rogue
+oracle_text: Whenever Kessig Cagebreakers attacks, create a 2/2 green Wolf creature
+  token that's tapped and attacking for each creature card in your graveyard.
+power: '3'
+toughness: '4'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: 7dc406c6-c2d7-4771-b916-258f7a35275a
+  component: token
+  name: Wolf
+  type_line: Token Creature — Wolf
+  uri: https://api.scryfall.com/cards/7dc406c6-c2d7-4771-b916-258f7a35275a
+- object: related_card
+  id: b4cf67ac-63b8-4cd5-843f-0dd1724dcc46
+  component: combo_piece
+  name: Kessig Cagebreakers
+  type_line: Creature — Human Rogue
+  uri: https://api.scryfall.com/cards/b4cf67ac-63b8-4cd5-843f-0dd1724dcc46
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set: c15
+set_name: Commander 2015
+set_type: commander
+set_uri: https://api.scryfall.com/sets/ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b4cf67ac-63b8-4cd5-843f-0dd1724dcc46/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad7407920-7596-497a-a135-b9343909a0cb&unique=prints
+collector_number: '187'
+digital: false
+rarity: rare
+flavor_text: '"They put bars on these noble beasts and then wonder why werewolves
+  target our towns."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne England
+artist_ids:
+- 62dc90c0-4bc2-4d42-ad76-59cad9243566
+illustration_id: 34f16923-063e-4d25-ab04-67ec2819d380
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 4582
+penny_rank: 3344
+prices:
+  usd: '0.34'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405279
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kessig+Cagebreakers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kessig+Cagebreakers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kessig+Cagebreakers
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/107976?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kessig+Cagebreakers&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kessig+Cagebreakers&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

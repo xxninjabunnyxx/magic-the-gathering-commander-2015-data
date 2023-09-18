@@ -1,0 +1,110 @@
+---
+object: card
+id: 512d640c-4b2f-4cd7-b892-54a52f1bc720
+oracle_id: be09e83f-6486-4f42-8d2e-416cb95173f9
+multiverse_ids:
+- 405387
+tcgplayer_id: 108164
+cardmarket_id: 286068
+name: Smoldering Crater
+lang: en
+released_at: '2015-11-13'
+uri: https://api.scryfall.com/cards/512d640c-4b2f-4cd7-b892-54a52f1bc720
+scryfall_uri: https://scryfall.com/card/c15/308/smoldering-crater?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/1/512d640c-4b2f-4cd7-b892-54a52f1bc720.jpg?1562704223
+  normal: https://cards.scryfall.io/normal/front/5/1/512d640c-4b2f-4cd7-b892-54a52f1bc720.jpg?1562704223
+  large: https://cards.scryfall.io/large/front/5/1/512d640c-4b2f-4cd7-b892-54a52f1bc720.jpg?1562704223
+  png: https://cards.scryfall.io/png/front/5/1/512d640c-4b2f-4cd7-b892-54a52f1bc720.png?1562704223
+  art_crop: https://cards.scryfall.io/art_crop/front/5/1/512d640c-4b2f-4cd7-b892-54a52f1bc720.jpg?1562704223
+  border_crop: https://cards.scryfall.io/border_crop/front/5/1/512d640c-4b2f-4cd7-b892-54a52f1bc720.jpg?1562704223
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Smoldering Crater enters the battlefield tapped.
+  {T}: Add {R}.
+  Cycling {2} ({2}, Discard this card: Draw a card.)
+colors: []
+color_identity:
+- R
+keywords:
+- Cycling
+produced_mana:
+- R
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set: c15
+set_name: Commander 2015
+set_type: commander
+set_uri: https://api.scryfall.com/sets/ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/512d640c-4b2f-4cd7-b892-54a52f1bc720/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abe09e83f-6486-4f42-8d2e-416cb95173f9&unique=prints
+collector_number: '308'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: e0736d1e-9320-467e-8016-7bead9bf8712
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 2387
+prices:
+  usd: '0.16'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.09'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405387
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Smoldering+Crater&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Smoldering+Crater&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Smoldering+Crater
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/108164?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Smoldering+Crater&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Smoldering+Crater&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

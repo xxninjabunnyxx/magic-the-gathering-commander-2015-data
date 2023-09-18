@@ -1,0 +1,110 @@
+---
+object: card
+id: a92994a8-94b5-4ac9-80b5-265c8ac4100d
+oracle_id: f29dc596-2121-4421-8463-15f6c2e8b9b3
+multiverse_ids:
+- 405362
+tcgplayer_id: 108159
+cardmarket_id: 286062
+name: Rogue's Passage
+lang: en
+released_at: '2015-11-13'
+uri: https://api.scryfall.com/cards/a92994a8-94b5-4ac9-80b5-265c8ac4100d
+scryfall_uri: https://scryfall.com/card/c15/302/rogues-passage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/9/a92994a8-94b5-4ac9-80b5-265c8ac4100d.jpg?1562708167
+  normal: https://cards.scryfall.io/normal/front/a/9/a92994a8-94b5-4ac9-80b5-265c8ac4100d.jpg?1562708167
+  large: https://cards.scryfall.io/large/front/a/9/a92994a8-94b5-4ac9-80b5-265c8ac4100d.jpg?1562708167
+  png: https://cards.scryfall.io/png/front/a/9/a92994a8-94b5-4ac9-80b5-265c8ac4100d.png?1562708167
+  art_crop: https://cards.scryfall.io/art_crop/front/a/9/a92994a8-94b5-4ac9-80b5-265c8ac4100d.jpg?1562708167
+  border_crop: https://cards.scryfall.io/border_crop/front/a/9/a92994a8-94b5-4ac9-80b5-265c8ac4100d.jpg?1562708167
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {4}, {T}: Target creature can't be blocked this turn.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set: c15
+set_name: Commander 2015
+set_type: commander
+set_uri: https://api.scryfall.com/sets/ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a92994a8-94b5-4ac9-80b5-265c8ac4100d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af29dc596-2121-4421-8463-15f6c2e8b9b3&unique=prints
+collector_number: '302'
+digital: false
+rarity: uncommon
+flavor_text: Rumors quickly spread among thieves about a labyrinth without walls and
+  a prize beyond all measures of worth.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christine Choi
+artist_ids:
+- b8266529-1ffe-41e7-9969-fcf39f61426b
+illustration_id: 315c60c8-d520-453e-a500-f9968d4683fa
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 23
+penny_rank: 2802
+prices:
+  usd: '0.48'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.19'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405362
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rogue%27s+Passage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rogue%27s+Passage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rogue%27s+Passage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/108159?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rogue%27s+Passage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rogue%27s+Passage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

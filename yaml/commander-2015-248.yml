@@ -1,0 +1,108 @@
+---
+object: card
+id: 2da133f1-e99d-4020-b4cc-cea6fafb2c5c
+oracle_id: 893fed41-c144-433f-af88-bc7d419b7fb3
+multiverse_ids:
+- 405161
+tcgplayer_id: 108083
+cardmarket_id: 286008
+name: Burnished Hart
+lang: en
+released_at: '2015-11-13'
+uri: https://api.scryfall.com/cards/2da133f1-e99d-4020-b4cc-cea6fafb2c5c
+scryfall_uri: https://scryfall.com/card/c15/248/burnished-hart?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/d/2da133f1-e99d-4020-b4cc-cea6fafb2c5c.jpg?1562702631
+  normal: https://cards.scryfall.io/normal/front/2/d/2da133f1-e99d-4020-b4cc-cea6fafb2c5c.jpg?1562702631
+  large: https://cards.scryfall.io/large/front/2/d/2da133f1-e99d-4020-b4cc-cea6fafb2c5c.jpg?1562702631
+  png: https://cards.scryfall.io/png/front/2/d/2da133f1-e99d-4020-b4cc-cea6fafb2c5c.png?1562702631
+  art_crop: https://cards.scryfall.io/art_crop/front/2/d/2da133f1-e99d-4020-b4cc-cea6fafb2c5c.jpg?1562702631
+  border_crop: https://cards.scryfall.io/border_crop/front/2/d/2da133f1-e99d-4020-b4cc-cea6fafb2c5c.jpg?1562702631
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact Creature — Elk
+oracle_text: "{3}, Sacrifice Burnished Hart: Search your library for up to two basic
+  land cards, put them onto the battlefield tapped, then shuffle."
+power: '2'
+toughness: '2'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set: c15
+set_name: Commander 2015
+set_type: commander
+set_uri: https://api.scryfall.com/sets/ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2da133f1-e99d-4020-b4cc-cea6fafb2c5c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A893fed41-c144-433f-af88-bc7d419b7fb3&unique=prints
+collector_number: '248'
+digital: false
+rarity: uncommon
+flavor_text: Forged by divine hands to wander mortal realms.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Yeong-Hao Han
+artist_ids:
+- f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e
+illustration_id: 8f94c181-1c96-400b-bdea-a65d004cdd4e
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 150
+penny_rank: 9217
+prices:
+  usd: '0.21'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405161
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Burnished+Hart&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Burnished+Hart&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Burnished+Hart
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/108083?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Burnished+Hart&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Burnished+Hart&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

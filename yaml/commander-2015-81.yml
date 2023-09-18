@@ -1,0 +1,113 @@
+---
+object: card
+id: 98e2d3e2-6128-46ec-9730-a278e703059b
+oracle_id: 26396b80-e5b7-44f5-916c-56a9215a7a49
+multiverse_ids:
+- 405378
+tcgplayer_id: 108036
+cardmarket_id: 285835
+name: Silent Sentinel
+lang: en
+released_at: '2015-11-13'
+uri: https://api.scryfall.com/cards/98e2d3e2-6128-46ec-9730-a278e703059b
+scryfall_uri: https://scryfall.com/card/c15/81/silent-sentinel?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/8/98e2d3e2-6128-46ec-9730-a278e703059b.jpg?1562707426
+  normal: https://cards.scryfall.io/normal/front/9/8/98e2d3e2-6128-46ec-9730-a278e703059b.jpg?1562707426
+  large: https://cards.scryfall.io/large/front/9/8/98e2d3e2-6128-46ec-9730-a278e703059b.jpg?1562707426
+  png: https://cards.scryfall.io/png/front/9/8/98e2d3e2-6128-46ec-9730-a278e703059b.png?1562707426
+  art_crop: https://cards.scryfall.io/art_crop/front/9/8/98e2d3e2-6128-46ec-9730-a278e703059b.jpg?1562707426
+  border_crop: https://cards.scryfall.io/border_crop/front/9/8/98e2d3e2-6128-46ec-9730-a278e703059b.jpg?1562707426
+mana_cost: "{5}{W}{W}"
+cmc: 7.0
+type_line: Creature — Archon
+oracle_text: |-
+  Flying
+  Whenever Silent Sentinel attacks, you may return target enchantment card from your graveyard to the battlefield.
+power: '4'
+toughness: '6'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set: c15
+set_name: Commander 2015
+set_type: commander
+set_uri: https://api.scryfall.com/sets/ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/98e2d3e2-6128-46ec-9730-a278e703059b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A26396b80-e5b7-44f5-916c-56a9215a7a49&unique=prints
+collector_number: '81'
+digital: false
+rarity: rare
+flavor_text: It serves a justice higher than the whims of the gods.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Slawomir Maniak
+artist_ids:
+- d887bc66-2779-416c-a1ff-d8720242063e
+illustration_id: e75b95b6-c00b-434b-b40c-532fe598766d
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 9520
+penny_rank: 9497
+prices:
+  usd: '0.11'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405378
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Silent+Sentinel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Silent+Sentinel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Silent+Sentinel
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/108036?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Silent+Sentinel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Silent+Sentinel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

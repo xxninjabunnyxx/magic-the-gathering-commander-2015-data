@@ -1,0 +1,114 @@
+---
+object: card
+id: be0637cd-ccc4-4314-801d-9f780e5476c2
+oracle_id: 5dba7746-c087-4ec1-92ca-ab9882dea24d
+multiverse_ids:
+- 405251
+tcgplayer_id: 107870
+cardmarket_id: 285807
+name: Great Oak Guardian
+lang: en
+released_at: '2015-11-13'
+uri: https://api.scryfall.com/cards/be0637cd-ccc4-4314-801d-9f780e5476c2
+scryfall_uri: https://scryfall.com/card/c15/37/great-oak-guardian?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/e/be0637cd-ccc4-4314-801d-9f780e5476c2.jpg?1562709091
+  normal: https://cards.scryfall.io/normal/front/b/e/be0637cd-ccc4-4314-801d-9f780e5476c2.jpg?1562709091
+  large: https://cards.scryfall.io/large/front/b/e/be0637cd-ccc4-4314-801d-9f780e5476c2.jpg?1562709091
+  png: https://cards.scryfall.io/png/front/b/e/be0637cd-ccc4-4314-801d-9f780e5476c2.png?1562709091
+  art_crop: https://cards.scryfall.io/art_crop/front/b/e/be0637cd-ccc4-4314-801d-9f780e5476c2.jpg?1562709091
+  border_crop: https://cards.scryfall.io/border_crop/front/b/e/be0637cd-ccc4-4314-801d-9f780e5476c2.jpg?1562709091
+mana_cost: "{5}{G}"
+cmc: 6.0
+type_line: Creature — Treefolk
+oracle_text: |-
+  Flash (You may cast this spell any time you could cast an instant.)
+  Reach
+  When Great Oak Guardian enters the battlefield, creatures target player controls get +2/+2 until end of turn. Untap them.
+power: '4'
+toughness: '5'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Reach
+- Flash
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set: c15
+set_name: Commander 2015
+set_type: commander
+set_uri: https://api.scryfall.com/sets/ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/be0637cd-ccc4-4314-801d-9f780e5476c2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5dba7746-c087-4ec1-92ca-ab9882dea24d&unique=prints
+collector_number: '37'
+digital: false
+rarity: uncommon
+flavor_text: His roots reach deep and grip hard.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 3ff625c5-f0b0-4d7f-a0f6-e94f14119703
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 4323
+penny_rank: 6284
+prices:
+  usd: '0.21'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.30'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405251
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Great+Oak+Guardian&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Great+Oak+Guardian&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Great+Oak+Guardian
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/107870?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Great+Oak+Guardian&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Great+Oak+Guardian&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

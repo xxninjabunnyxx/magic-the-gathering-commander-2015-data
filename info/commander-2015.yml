@@ -1,0 +1,18 @@
+---
+object: set
+id: ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+code: c15
+tcgplayer_id: 1673
+name: Commander 2015
+uri: https://api.scryfall.com/sets/ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+scryfall_uri: https://scryfall.com/sets/c15
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ac15&unique=prints
+released_at: '2015-11-13'
+set_type: commander
+card_count: 342
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: cmd
+block: Commander
+icon_svg_uri: https://svgs.scryfall.io/sets/c15.svg?1694404800

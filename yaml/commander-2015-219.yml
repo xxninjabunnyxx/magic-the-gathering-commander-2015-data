@@ -1,0 +1,116 @@
+---
+object: card
+id: a43eab14-4e5e-4788-8bbe-2a780d1dc566
+oracle_id: 66f9f325-5e8e-4ebf-b5b3-c6410d80f2c5
+multiverse_ids:
+- 405243
+tcgplayer_id: 107802
+cardmarket_id: 285749
+name: Gisela, Blade of Goldnight
+lang: en
+released_at: '2015-11-13'
+uri: https://api.scryfall.com/cards/a43eab14-4e5e-4788-8bbe-2a780d1dc566
+scryfall_uri: https://scryfall.com/card/c15/219/gisela-blade-of-goldnight?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/4/a43eab14-4e5e-4788-8bbe-2a780d1dc566.jpg?1562707958
+  normal: https://cards.scryfall.io/normal/front/a/4/a43eab14-4e5e-4788-8bbe-2a780d1dc566.jpg?1562707958
+  large: https://cards.scryfall.io/large/front/a/4/a43eab14-4e5e-4788-8bbe-2a780d1dc566.jpg?1562707958
+  png: https://cards.scryfall.io/png/front/a/4/a43eab14-4e5e-4788-8bbe-2a780d1dc566.png?1562707958
+  art_crop: https://cards.scryfall.io/art_crop/front/a/4/a43eab14-4e5e-4788-8bbe-2a780d1dc566.jpg?1562707958
+  border_crop: https://cards.scryfall.io/border_crop/front/a/4/a43eab14-4e5e-4788-8bbe-2a780d1dc566.jpg?1562707958
+mana_cost: "{4}{R}{W}{W}"
+cmc: 7.0
+type_line: Legendary Creature — Angel
+oracle_text: |-
+  Flying, first strike
+  If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.
+  If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.
+power: '5'
+toughness: '5'
+colors:
+- R
+- W
+color_identity:
+- R
+- W
+keywords:
+- Flying
+- First strike
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set: c15
+set_name: Commander 2015
+set_type: commander
+set_uri: https://api.scryfall.com/sets/ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a43eab14-4e5e-4788-8bbe-2a780d1dc566/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A66f9f325-5e8e-4ebf-b5b3-c6410d80f2c5&unique=prints
+collector_number: '219'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason Chan
+artist_ids:
+- 8062d5a9-51b6-4822-933f-fa9e9dba8416
+illustration_id: ddf4595c-2fbd-41f1-bf45-f096c9c4154a
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1105
+penny_rank: 2759
+prices:
+  usd: '11.69'
+  usd_foil: 
+  usd_etched: 
+  eur: '3.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405243
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gisela%2C+Blade+of+Goldnight&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gisela%2C+Blade+of+Goldnight&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Gisela%2C+Blade+of+Goldnight
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/107802?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gisela%2C+Blade+of+Goldnight&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gisela%2C+Blade+of+Goldnight&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

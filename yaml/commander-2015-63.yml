@@ -1,0 +1,115 @@
+---
+object: card
+id: a0c6dcc4-2ad4-4f62-882b-01da7ace2591
+oracle_id: 41797e0c-94bb-42a1-81ed-ed8c6af79e80
+multiverse_ids:
+- 405167
+tcgplayer_id: 107915
+cardmarket_id: 285814
+name: Celestial Ancient
+lang: en
+released_at: '2015-11-13'
+uri: https://api.scryfall.com/cards/a0c6dcc4-2ad4-4f62-882b-01da7ace2591
+scryfall_uri: https://scryfall.com/card/c15/63/celestial-ancient?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/0/a0c6dcc4-2ad4-4f62-882b-01da7ace2591.jpg?1562707774
+  normal: https://cards.scryfall.io/normal/front/a/0/a0c6dcc4-2ad4-4f62-882b-01da7ace2591.jpg?1562707774
+  large: https://cards.scryfall.io/large/front/a/0/a0c6dcc4-2ad4-4f62-882b-01da7ace2591.jpg?1562707774
+  png: https://cards.scryfall.io/png/front/a/0/a0c6dcc4-2ad4-4f62-882b-01da7ace2591.png?1562707774
+  art_crop: https://cards.scryfall.io/art_crop/front/a/0/a0c6dcc4-2ad4-4f62-882b-01da7ace2591.jpg?1562707774
+  border_crop: https://cards.scryfall.io/border_crop/front/a/0/a0c6dcc4-2ad4-4f62-882b-01da7ace2591.jpg?1562707774
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Creature — Elemental
+oracle_text: |-
+  Flying
+  Whenever you cast an enchantment spell, put a +1/+1 counter on each creature you control.
+power: '3'
+toughness: '3'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set: c15
+set_name: Commander 2015
+set_type: commander
+set_uri: https://api.scryfall.com/sets/ea6c99f9-5489-4504-b30c-c819fa3b1fd3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a0c6dcc4-2ad4-4f62-882b-01da7ace2591/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A41797e0c-94bb-42a1-81ed-ed8c6af79e80&unique=prints
+collector_number: '63'
+digital: false
+rarity: rare
+flavor_text: |-
+  "We thought the clouds had moved from the night sky. Then the night sky moved, and the horizon grew wings."
+  —Josuri
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: b5f82357-f585-49f4-bfa9-7e02545c529e
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 6312
+penny_rank: 10107
+prices:
+  usd: '0.58'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.30'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405167
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Celestial+Ancient&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Celestial+Ancient&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Celestial+Ancient
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/107915?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Celestial+Ancient&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Celestial+Ancient&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
